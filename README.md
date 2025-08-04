@@ -44,11 +44,9 @@ The dataset contains marketing-related data about customer demographics, behavio
 pip install pandas matplotlib seaborn
 jupyter notebook marketing_compaign_jaya.ipynb
 
- ---
+ 
+---
 
 ## 👤 Author
 
 **Jaya Bijore**  
-
-
-
